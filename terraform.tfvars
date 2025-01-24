@@ -21,7 +21,7 @@ labels = {
   ghpc_deployment = "hpc-slurm-v6"
 }
 
-project_id = "thomashk-mig"
+project_id = "<< YOUR PROJECT ID HERE>>"
 
 region = "us-central1"
 
